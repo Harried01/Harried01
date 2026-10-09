@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a new student at Leeds Beckett and I will use this repo to give you some information about me 
 
 <!--
 **Harried01/Harried01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
